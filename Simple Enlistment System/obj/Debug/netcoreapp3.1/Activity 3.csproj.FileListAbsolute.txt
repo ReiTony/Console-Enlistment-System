@@ -1,0 +1,13 @@
+C:\Users\Tonyo\source\repos\OOPClass\bin\Debug\netcoreapp3.1\Activity 3.exe
+C:\Users\Tonyo\source\repos\OOPClass\bin\Debug\netcoreapp3.1\Activity 3.deps.json
+C:\Users\Tonyo\source\repos\OOPClass\bin\Debug\netcoreapp3.1\Activity 3.runtimeconfig.json
+C:\Users\Tonyo\source\repos\OOPClass\bin\Debug\netcoreapp3.1\Activity 3.runtimeconfig.dev.json
+C:\Users\Tonyo\source\repos\OOPClass\bin\Debug\netcoreapp3.1\Activity 3.dll
+C:\Users\Tonyo\source\repos\OOPClass\bin\Debug\netcoreapp3.1\Activity 3.pdb
+C:\Users\Tonyo\source\repos\OOPClass\obj\Debug\netcoreapp3.1\Activity 3.csprojAssemblyReference.cache
+C:\Users\Tonyo\source\repos\OOPClass\obj\Debug\netcoreapp3.1\Activity 3.AssemblyInfoInputs.cache
+C:\Users\Tonyo\source\repos\OOPClass\obj\Debug\netcoreapp3.1\Activity 3.AssemblyInfo.cs
+C:\Users\Tonyo\source\repos\OOPClass\obj\Debug\netcoreapp3.1\Activity 3.csproj.CoreCompileInputs.cache
+C:\Users\Tonyo\source\repos\OOPClass\obj\Debug\netcoreapp3.1\Activity 3.dll
+C:\Users\Tonyo\source\repos\OOPClass\obj\Debug\netcoreapp3.1\Activity 3.pdb
+C:\Users\Tonyo\source\repos\OOPClass\obj\Debug\netcoreapp3.1\Activity 3.genruntimeconfig.cache

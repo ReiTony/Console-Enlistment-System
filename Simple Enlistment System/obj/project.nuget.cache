@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FClX3lyS/8qEVaAXtV5XssMl7Rb50e0vjP7J3FCthiZhY4gJYs3xPqtmCtGlphARyGRJU144O8QFLEtSm83/Ug==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\Compressed\\OOP-20230531T190301Z-001\\OOP\\Cariño_Anton_Activity2\\Activity 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reime\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\reime\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\reime\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\reime\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
